@@ -1,0 +1,5 @@
+[GERAL]
+paridade = EURUSD
+entrada = 2
+timeframe = 1
+

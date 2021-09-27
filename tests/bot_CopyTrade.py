@@ -10,7 +10,7 @@ import sys
 
 
 # Credenciais
-API = IQ_Option('cleoircanei@hotmail.com', 'CDC007key@')
+API = IQ_Option('seu_email', 'password')
 
 # Logar
 def Login():
